@@ -1,0 +1,15 @@
+This is the source code for a basic "Noter App", built using React native.
+LET'S GET CREATIVE WITH REACT NATIVE!
+
+Setup Guide:
+1.) Make sure you have node and npm installed
+2.) Run ‘npm install –g react-native-cli’
+3.) Go to a path where you would like to keep your project files and then run ‘react-native init noter’
+4.) Copy all of the files you have here and then paste it into your 'noter' folder (replace if asked)
+5.) Open Android Studio and open "Android" inside your 'noter' folder
+6.) Go to Android Studio Tools > AVD Manager and then select your preferred Virtual Device
+7.) cd into your 'noter' project directory (Run this command 'cd noter')
+8.) Run 'npm add @babel/runtime'
+9.) And then run 'react-native run-android' (To sync your code into your Virtual Device)
+
+Happy Hacking!
